@@ -3,7 +3,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This javscript file is developed for personal use and is designed to display cashback information for discover it and chase freedom flex in the current quarter for Scriptable app on the iPhone.
+This javascript file is developed for personal use. It is designed to display cashback information for Discover IT and Chase Freedom Flex in the current quarter for the Scriptable app on the iPhone.
+
+## Workflow
+![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow.jpg)
 
 ## By using this plugin, the user understands and agrees to the following:
 
@@ -11,7 +14,7 @@ This javscript file is developed for personal use and is designed to display cas
 This plugin is developed independently and is not affiliated with any banks. It does not represent the official stance of any bank.
 
 ### Use at Your Own Risk
-All risks associated with the use of this plugin are assumed by the user. The developer does not guarantee the accuracy, completeness, or timeliness of the plugin.
+The user assumes all risks associated with the use of this plugin. The developer does not guarantee the accuracy, completeness, or timeliness of the plugin.
 
 ### Data Source
 The cashback information displayed by the plugin is based on data obtained by the developer and may differ from the actual situation. Users should independently verify information provided by the official bank sources.
@@ -24,9 +27,6 @@ The functionality of the plugin is subject to limitations imposed by the Scripta
 - By using this plugin, you indicate that you agree and accept all the terms and conditions outlined in this disclaimer.
 - No personal data will be collected and The developer is not liable for any direct or indirect losses incurred as a result of using this plugin.
 
-
-
-
 ### This plugin is licensed under the MIT License. See the details of the license below.
 
 #### MIT License
@@ -37,4 +37,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
