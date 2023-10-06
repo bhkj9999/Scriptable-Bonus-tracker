@@ -15,7 +15,7 @@ It refreshes every day
 <img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/L.png" width="617" height="auto" />
 
 ## Workflow
-![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow.png)
+![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow-1.1.1.png)
 
 ## By using this plugin, the user understands and agrees to the following:
 
