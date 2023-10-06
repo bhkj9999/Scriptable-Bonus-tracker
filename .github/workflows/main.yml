@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@a81bbbf8298c0fa03ea29cdc473d45769f953675
+        uses: actions/checkout@v4
 
       - name: Get Commit Message
         id: message
