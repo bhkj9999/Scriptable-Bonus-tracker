@@ -5,6 +5,8 @@
 
 This javascript file is developed for personal use. It is designed to display cashback information for Discover IT and Chase Freedom Flex in the current quarter for the Scriptable app on the iPhone.
 
+It refreshes every day
+
 ## Workflow
 ![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow.jpg)
 
