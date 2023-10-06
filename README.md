@@ -8,7 +8,7 @@ This javascript file is developed for personal use. It is designed to display ca
 It refreshes every day
 
 ## Workflow
-![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow.jpg)
+![image](https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/workflow.png)
 
 ## By using this plugin, the user understands and agrees to the following:
 
