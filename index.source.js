@@ -774,11 +774,11 @@ class Widget extends Base {
     this.nextUpdateDateObj = new Date(Date.now() + 43200000);
     let dF = new DateFormatter();
     dF.dateFormat = "q";
-    this.season = dF.string(new Date());
-    this.chineseSeaon = {"1": "一", "2": "二", "3": "三", "4": "四"}[this.season]
+    this.quarter = dF.string(new Date());
+    this.chineseQuarter = {"1": "一", "2": "二", "3": "三", "4": "四"}[this.quarter]
     if (arg === "zhCN") {
       this.textMap = {
-        "bt": `${this.chineseSeaon}季度返现类别`,
+        "bt": `${this.chineseQuarter}季度返现类别`,
         "req": "数据请求",
         "status": {
           true: "成功",
@@ -789,7 +789,7 @@ class Widget extends Base {
       }
     } else {
       this.textMap = {
-        "bt": `Q${this.season} Bonus Categories`,
+        "bt": `Q${this.quarter} Bonus Categories`,
         "req": "Request",
         "s_req": "Req",
         "status": {
