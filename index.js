@@ -22,7 +22,7 @@ const jsonRequest = async (url) => {
 };
 
 const {data, result} = await jsonRequest(
-    "https://x23emcpxzpekkp32nb2dk2bzry0kasuv.lambda-url.ap-northeast-2.on.aws/"
+    "https://raw.githubusercontent.com/bhkj9999/Scriptable-Bonus-tracker/main/data.json"
 );
 
 let widget = new ListWidget();
