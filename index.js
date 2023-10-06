@@ -45,7 +45,7 @@ const nextUpdateDate = dF.string(nextUpdateDateObj);
 
 const nextUpdateDateString = "Next update at " + nextUpdateDate;
 
-const big_title = widget.addText("本季度返现类别");
+const big_title = widget.addText("Bonus Categories");
 
 const discover_title = widget.addText("Discover IT");
 
