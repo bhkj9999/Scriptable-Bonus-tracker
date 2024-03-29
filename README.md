@@ -8,10 +8,10 @@ This javascript file is developed for personal use. It is designed to display ca
 It refreshes every day
 
 ## Widget Example (Chinese)
-<span>
-<img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/S.png" width="200" height="auto" />
-<img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/M.png" width="413" height="auto" />
-</span>
+<!-- <span> -->
+<!-- <img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/S.png" width="200" height="auto" /> -->
+<!-- <img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/M.png" width="413" height="auto" /> -->
+<!-- </span> -->
 <img src="https://github.com/bhkj9999/Scriptable-Bonus-tracker/blob/main/L.png" width="617" height="auto" />
 
 ## Workflow
