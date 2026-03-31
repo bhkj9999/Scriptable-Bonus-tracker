@@ -1,3 +1,16 @@
+# Deprecated / No Longer Maintained
+
+This project is no longer maintained.
+
+There is now a better alternative available
+- App Store: https://apps.apple.com/us/app/rewardradar-credit-cards/id6481423239
+
+This repository will remain available in archived form for reference only.
+No new features, bug fixes, or data updates are planned.
+
+If you are a current user, please migrate to RewardRadar.
+If you want to continue maintaining this Scriptable-based approach, feel free to fork this repository under the MIT license.
+
 # Scriptable-Bonus-tracker
 ## Track the 5% bonus categories of your credit card
 
